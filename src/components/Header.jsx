@@ -19,7 +19,7 @@ const Header = () => {
         <div className="header__logo">
           <h1>
             <a href="/">
-              hello<em>react</em>
+              hello<em>for react</em>
             </a>
           </h1>
         </div>
