@@ -7,6 +7,7 @@ import Site from "../components/Site";
 import Skill from "../components/Skill";
 import Contact from "../components/Contact";
 import Main from "../components/Main";
+import Footer from "../components/Footer";
 
 const HomeView = () => {
   return (
@@ -20,6 +21,7 @@ const HomeView = () => {
         <Port />
         <Contact />
       </Main>
+      <Footer />
     </>
   );
 };
